@@ -17,11 +17,6 @@ Over the past 8 months I have fully immersed myself into learning coding, specif
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" title="PostgreSQL" alt="PostgreSQL" width="100" height="30">
 </p>
 
-## Currently Learning:
-<p align="left">
-
-</p>
-
 ## Editors:
 <p align="left">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" title="Visual Studio Code" alt="Visual Studio Code" width="150" height="30">
