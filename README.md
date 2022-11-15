@@ -1,5 +1,6 @@
 ### Hello ! 🙋🏼‍♂️
-Over the past 8 months I have fully immersed myself into learning coding.  Prior to making this career change, I was a Chef as well as a Buyer and Data Analyst in the food distribution industry for around 10 years
+Over the past 8 months I have fully immersed myself into learning coding, specifically Front-end development.  Prior to making this career change, I was a Chef, Buyer and Data Analyst in the food distribution industry for around 10 years.  I love problem solving and have found that the change from supply chain to coding has allowed me to experience the same personal satisfaction when coming up with solutions. 
+
 - 😀 I enjoy include skiing ⛷️, hiking 🏔, and spending time with my wife, dog and 1 year old son.
 - 📚 I am currently learning React, Knex, and PostgreSQL
 - 📫 How to reach me: Crpearce892@gmail.com
