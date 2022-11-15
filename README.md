@@ -6,7 +6,7 @@ Over the past 8 months I have fully immersed myself into learning coding, specif
 - 📫 How to reach me: Crpearce892@gmail.com
 
 
-[![Colbys's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crpearce&show_icons=true&theme=cobalt)](https://github.com/Crpearce/github-readme-stats)
+[![Colbys's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crpearce&show_icons=true&theme=transparent)](https://github.com/Crpearce/github-readme-stats)
 
 ## Languages:
 <p align="left">
