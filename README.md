@@ -2,7 +2,7 @@
 Over the past 8 months I have fully immersed myself into learning to code, specifically focusing on Front-end development.  Prior to making this career change, I was a Chef, Buyer and Data Analyst in the food distribution industry for around 10 years.  I love problem solving and have found that the change from supply chain to coding has allowed me to experience the same personal satisfaction when coming up with complex solutions. 
 
 - 😀 I enjoy skiing ⛷️, hiking 🏔, and spending time with my wife, dog and 1 year old son.
-- 📚 I am currently learning Swift
+- 📚 I am currently learning Swift and xCode
 - 📫 How to reach me: Crpearce892@gmail.com
 
 
@@ -15,6 +15,7 @@ Over the past 8 months I have fully immersed myself into learning to code, speci
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" title="Router" alt="Router" width="100" height="30">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" title="HTML" alt="HTML" width="100" height="30">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" title="CSS" alt="CSS" width="100" height="30">
+<img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" title='Swift' alt='swift' width='100' height='30'/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" title="Express" alt="Express" width="100" height="30">
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" title="PostgreSQL" alt="PostgreSQL" width="100" height="30">
 <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white" title="Mocha" alt="Mocha" width="100" height="30">
@@ -29,7 +30,9 @@ Over the past 8 months I have fully immersed myself into learning to code, speci
 <p align="left">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" title="Visual Studio Code" alt="Visual Studio Code" width="150" height="30">
 <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" title="Atom" alt="Atom" width="100" height="30">
+<img src='https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white' title='xcode' alt='xcode' height='30' width='100'/>
 </p>
+
 
 ## Other Skills:
 <p align="left">
