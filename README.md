@@ -2,7 +2,7 @@
 Over the past 8 months I have fully immersed myself into learning to code, specifically focusing on Front-end development.  Prior to making this career change, I was a Chef, Buyer and Data Analyst in the food distribution industry for around 10 years.  I love problem solving and have found that the change from supply chain to coding has allowed me to experience the same personal satisfaction when coming up with complex solutions. 
 
 - 😀 I enjoy skiing ⛷️, hiking 🏔, and spending time with my wife, dog and 1 year old son.
-- 📚 I am currently learning React, GraphQL, Redux, Sass, and Firebase
+- 📚 I am currently learning Swift
 - 📫 How to reach me: Crpearce892@gmail.com
 
 
