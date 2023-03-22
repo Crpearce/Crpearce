@@ -8,6 +8,9 @@ Over the past 8 months I have fully immersed myself into learning to code, speci
 
 [![Colbys's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crpearce&show_icons=true&theme=transparent)](https://github.com/Crpearce/github-readme-stats)
 
+[![Colby's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crpearce)](https://github.com/Crpearce/github-readme-stats)
+
+
 ## Technologies:
 <p align="left">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" title="JavaScript" alt="JavaScript" width="100" height="30">
