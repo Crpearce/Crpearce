@@ -1,5 +1,5 @@
 ### Hello ! 🙋🏼‍♂️
-Over the past year I have fully immersed myself into coding, specifically focusing on Front-end development with JavaScript and React.  Prior to making this career change, I was a Chef, Buyer and Data Analyst in the food distribution industry for over a decade.  I love problem solving and have found that the change from supply chain to coding has allowed me to experience the same personal satisfaction when coming up with complex solutions. 
+Over the past year plus I have fully immersed myself into coding, specifically focusing on Front-end development with JavaScript and React.  Prior to making this career change, I was a Chef, Buyer and Data Analyst in the food distribution industry for over a decade.  I love problem solving and have found that the change from supply chain to coding has allowed me to experience the same personal satisfaction when coming up with complex solutions. 
 
 - 😀 I enjoy skiing ⛷️, hiking 🏔, and spending time with my wife, dog and 1 year old son.
 - 📚 I am currently learning Redux, BootStrap, MongoDB
@@ -15,6 +15,7 @@ Over the past year I have fully immersed myself into coding, specifically focusi
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" title="Router" alt="Router" width="100" height="30">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" title="HTML" alt="HTML" width="100" height="30">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" title="CSS" alt="CSS" width="100" height="30">
+<img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" title="Redux" alt="Redux" width="100" height="30"> 
 <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" title='Swift' alt='swift' width='100' height='30'/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" title="Express" alt="Express" width="100" height="30">
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" title="PostgreSQL" alt="PostgreSQL" width="100" height="30">
@@ -23,7 +24,7 @@ Over the past year I have fully immersed myself into coding, specifically focusi
 <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" title="Cypress" alt="Cypress" width="100" height="30">
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" title="npm" alt="npm" width="100" height="30">
 <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" title="Chartjs" alt="Chartjs" width="100" height="30">
-<img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" title="Webpack" alt="Webpack" width="100" height="30">
+<img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" title="Webpack" alt="Webpack" width="100" height="30">  
 </p>
 
 ## Editors:
