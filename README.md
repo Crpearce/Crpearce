@@ -2,7 +2,7 @@
 Over the past year and a half I have fully immersed myself into coding, specifically focusing on Front-end development with JavaScript and React.  Prior to making this career change, I worked as a Chef, Buyer and Data Analyst in the food distribution industry for over a decade.  I love problem solving and have found that the change from supply chain to coding has allowed me to experience the same personal satisfaction when coming up with complex solutions. 
 
 - 😀 I enjoy skiing ⛷️, hiking 🏔, and spending time with my wife, dog and 1 year old son.
-- 📚 I am currently learning Redux, BootStrap, MongoDB
+- 📚 I am currently learning Redux, BootStrap, Material UI, MongoDB
 - 📫 How to reach me: Crpearce892@gmail.com
 
 
